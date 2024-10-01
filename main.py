@@ -93,10 +93,10 @@ grafo_disponibilidade = {
 }
 
 # Cadastrando alunos
-cadastrar_aluno("Carlos Santos")
+cadastrar_aluno("Roberto Elias")
 
 # Agendando uma luva para um treinamento de laparoscopia
-agendar_luva("Carlos Santos", "27/09/2024", grafo_disponibilidade, '08:00')
+agendar_luva("Roberto Elias", "02/05/2025", grafo_disponibilidade, '10:00')
 
 # Exibindo informações de agendamentos e disponibilidade de luvas
 print("\nAgendamentos após reserva de luvas:")
